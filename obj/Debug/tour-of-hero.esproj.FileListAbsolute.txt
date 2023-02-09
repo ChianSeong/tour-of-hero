@@ -1,0 +1,4 @@
+C:\Users\PRESTIGE\OneDrive\Desktop\tour-heroes\tour-of-hero\obj\Debug\tour-of-hero.esproj.SuggestedBindingRedirects.cache
+C:\Users\PRESTIGE\OneDrive\Desktop\tour-heroes\tour-of-hero\obj\Debug\tour-of-hero.esproj.CoreCompileInputs.cache
+C:\Users\PRESTIGE\OneDrive\Desktop\angular-tour-hero\tour-of-hero\obj\Debug\tour-of-hero.esproj.SuggestedBindingRedirects.cache
+C:\Users\PRESTIGE\OneDrive\Desktop\angular-tour-hero\tour-of-hero\obj\Debug\tour-of-hero.esproj.CoreCompileInputs.cache
